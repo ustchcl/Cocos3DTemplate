@@ -3,7 +3,6 @@
     "designResolution": {
       "width": 768,
       "height": 1366
-    },
-    "type_check_level": "fatalOnError"
+    }
   }
 }

@@ -58,47 +58,6 @@
         "gltfIndex": 6
       }
     },
-    "77041": {
-      "ver": "1.0.19",
-      "importer": "texture",
-      "name": "DiffuseColor_Texture-0.texture",
-      "id": "77041",
-      "displayName": "",
-      "uuid": "14b134ed-c399-497a-9132-fecb066e1c59@77041",
-      "imported": true,
-      "files": [
-        ".json"
-      ],
-      "subMetas": {},
-      "userData": {
-        "wrapModeS": "repeat",
-        "wrapModeT": "repeat",
-        "minfilter": "linear",
-        "magfilter": "linear",
-        "mipfilter": "none",
-        "premultiplyAlpha": false,
-        "anisotropy": 1,
-        "isUuid": true,
-        "imageUuidOrDatabaseUri": "14b134ed-c399-497a-9132-fecb066e1c59@85124"
-      }
-    },
-    "85124": {
-      "ver": "1.0.0",
-      "importer": "gltf-embeded-image",
-      "name": "car_01.png.image",
-      "id": "85124",
-      "displayName": "",
-      "uuid": "14b134ed-c399-497a-9132-fecb066e1c59@85124",
-      "imported": true,
-      "files": [
-        ".png",
-        ".json"
-      ],
-      "subMetas": {},
-      "userData": {
-        "gltfIndex": 0
-      }
-    },
     "0f50f": {
       "ver": "1.0.2",
       "importer": "gltf-mesh",
@@ -354,30 +313,13 @@
         "gltfIndex": 16
       }
     },
-    "c3fe6": {
-      "ver": "1.0.0",
-      "importer": "gltf-embeded-image",
-      "name": "TemplateEnvironmentSwatch.png.image",
-      "id": "c3fe6",
-      "displayName": "",
-      "uuid": "14b134ed-c399-497a-9132-fecb066e1c59@c3fe6",
-      "imported": true,
-      "files": [
-        ".png",
-        ".json"
-      ],
-      "subMetas": {},
-      "userData": {
-        "gltfIndex": 1
-      }
-    },
-    "ac7cc": {
+    "4f17a": {
       "ver": "1.0.19",
       "importer": "texture",
-      "name": "DiffuseColor_Texture-1.texture",
-      "id": "ac7cc",
+      "name": "DiffuseColor_Texture.texture",
+      "id": "4f17a",
       "displayName": "",
-      "uuid": "14b134ed-c399-497a-9132-fecb066e1c59@ac7cc",
+      "uuid": "14b134ed-c399-497a-9132-fecb066e1c59@4f17a",
       "imported": true,
       "files": [
         ".json"
@@ -390,9 +332,7 @@
         "magfilter": "linear",
         "mipfilter": "none",
         "premultiplyAlpha": false,
-        "anisotropy": 1,
-        "isUuid": true,
-        "imageUuidOrDatabaseUri": "14b134ed-c399-497a-9132-fecb066e1c59@c3fe6"
+        "anisotropy": 1
       }
     },
     "9c4bf": {
@@ -517,6 +457,10 @@
       "TemplateEnvironmentSwatch.png": {
         "originalPath": "TemplateEnvironmentSwatch.png",
         "targetDatabaseUrl": null
+      },
+      "DiffuseColor_Texture": {
+        "originalPath": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8/5+hHgAHggJ/PchI7wAAAABJRU5ErkJggg==",
+        "targetDatabaseUrl": null
       }
     },
     "normals": 2,
@@ -544,18 +488,10 @@
         "14b134ed-c399-497a-9132-fecb066e1c59@2e68e"
       ],
       "images": [
-        {
-          "embeded": true,
-          "uuidOrDatabaseUri": "14b134ed-c399-497a-9132-fecb066e1c59@85124"
-        },
-        {
-          "embeded": true,
-          "uuidOrDatabaseUri": "14b134ed-c399-497a-9132-fecb066e1c59@c3fe6"
-        }
+        null
       ],
       "textures": [
-        "14b134ed-c399-497a-9132-fecb066e1c59@77041",
-        "14b134ed-c399-497a-9132-fecb066e1c59@ac7cc"
+        "14b134ed-c399-497a-9132-fecb066e1c59@4f17a"
       ],
       "materials": [
         "14b134ed-c399-497a-9132-fecb066e1c59@9c4bf",

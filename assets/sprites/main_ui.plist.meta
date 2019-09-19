@@ -7,6 +7,7 @@
   "id": "",
   "displayName": "",
   "files": [
+    ".plist",
     ".json"
   ],
   "subMetas": {
@@ -1058,7 +1059,9 @@
       "displayName": "",
       "uuid": "47e362d1-fd85-48af-b26b-8c2af2e1fcaf@0a0d8",
       "imported": true,
-      "files": [],
+      "files": [
+        ".json"
+      ],
       "subMetas": {},
       "userData": {
         "wrapModeS": "repeat",
@@ -1096,7 +1099,9 @@
       "displayName": "",
       "uuid": "47e362d1-fd85-48af-b26b-8c2af2e1fcaf@cf1ba",
       "imported": true,
-      "files": [],
+      "files": [
+        ".json"
+      ],
       "subMetas": {},
       "userData": {
         "wrapModeS": "repeat",
@@ -1134,7 +1139,9 @@
       "displayName": "",
       "uuid": "47e362d1-fd85-48af-b26b-8c2af2e1fcaf@7bf39",
       "imported": true,
-      "files": [],
+      "files": [
+        ".json"
+      ],
       "subMetas": {},
       "userData": {
         "wrapModeS": "repeat",
