@@ -1,0 +1,81 @@
+{
+  "ver": "1.1.2425",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "3a26e462-f29a-4aad-87c4-53a853a36917",
+  "name": "",
+  "id": "",
+  "displayName": "",
+  "files": [
+    ".fbx"
+  ],
+  "subMetas": {
+    "e10e4": {
+      "ver": "1.0.2",
+      "importer": "gltf-mesh",
+      "name": "立方体.mesh",
+      "id": "e10e4",
+      "displayName": "",
+      "uuid": "3a26e462-f29a-4aad-87c4-53a853a36917@e10e4",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "568a2": {
+      "ver": "1.0.10",
+      "importer": "gltf-material",
+      "name": "颜色替换换蓝色.material",
+      "id": "568a2",
+      "displayName": "",
+      "uuid": "3a26e462-f29a-4aad-87c4-53a853a36917@568a2",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "49a3a": {
+      "ver": "1.0.8",
+      "importer": "gltf-scene",
+      "name": "红色材质.prefab",
+      "id": "49a3a",
+      "displayName": "",
+      "uuid": "3a26e462-f29a-4aad-87c4-53a853a36917@49a3a",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageLocations": {},
+    "normals": 2,
+    "tangents": 2,
+    "dumpMaterials": false,
+    "redirect": "3a26e462-f29a-4aad-87c4-53a853a36917@49a3a",
+    "assetFinder": {
+      "meshes": [
+        "3a26e462-f29a-4aad-87c4-53a853a36917@e10e4"
+      ],
+      "materials": [
+        "3a26e462-f29a-4aad-87c4-53a853a36917@568a2"
+      ],
+      "scenes": [
+        "3a26e462-f29a-4aad-87c4-53a853a36917@49a3a"
+      ]
+    }
+  }
+}

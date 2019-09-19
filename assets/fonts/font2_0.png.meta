@@ -1,0 +1,43 @@
+{
+  "ver": "1.0.15",
+  "importer": "image",
+  "imported": true,
+  "uuid": "dca8b290-14af-4de0-9fff-0faa0a2a766a",
+  "name": "",
+  "id": "",
+  "displayName": "",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "ver": "1.0.19",
+      "importer": "texture",
+      "name": "texture",
+      "id": "6c48a",
+      "displayName": "font2_0",
+      "uuid": "dca8b290-14af-4de0-9fff-0faa0a2a766a@6c48a",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "dca8b290-14af-4de0-9fff-0faa0a2a766a"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "dca8b290-14af-4de0-9fff-0faa0a2a766a@6c48a"
+  }
+}

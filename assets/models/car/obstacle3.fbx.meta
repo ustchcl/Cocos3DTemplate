@@ -1,0 +1,115 @@
+{
+  "ver": "1.1.2425",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "aada4bae-3be8-4cc9-809b-db60f53a123f",
+  "name": "",
+  "id": "",
+  "displayName": "",
+  "files": [
+    ".fbx"
+  ],
+  "subMetas": {
+    "7f806": {
+      "ver": "1.0.2",
+      "importer": "gltf-mesh",
+      "name": "立方体_1.mesh",
+      "id": "7f806",
+      "displayName": "",
+      "uuid": "aada4bae-3be8-4cc9-809b-db60f53a123f@7f806",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "22e2a": {
+      "ver": "1.0.10",
+      "importer": "gltf-material",
+      "name": "材质.material",
+      "id": "22e2a",
+      "displayName": "",
+      "uuid": "aada4bae-3be8-4cc9-809b-db60f53a123f@22e2a",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "ed9a5": {
+      "ver": "1.0.10",
+      "importer": "gltf-material",
+      "name": "材质.2.material",
+      "id": "ed9a5",
+      "displayName": "",
+      "uuid": "aada4bae-3be8-4cc9-809b-db60f53a123f@ed9a5",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      }
+    },
+    "9aeec": {
+      "ver": "1.0.10",
+      "importer": "gltf-material",
+      "name": "材质.1.material",
+      "id": "9aeec",
+      "displayName": "",
+      "uuid": "aada4bae-3be8-4cc9-809b-db60f53a123f@9aeec",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 2
+      }
+    },
+    "119ca": {
+      "ver": "1.0.8",
+      "importer": "gltf-scene",
+      "name": "obstacle3.prefab",
+      "id": "119ca",
+      "displayName": "",
+      "uuid": "aada4bae-3be8-4cc9-809b-db60f53a123f@119ca",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageLocations": {},
+    "normals": 2,
+    "tangents": 2,
+    "dumpMaterials": false,
+    "redirect": "aada4bae-3be8-4cc9-809b-db60f53a123f@119ca",
+    "assetFinder": {
+      "meshes": [
+        "aada4bae-3be8-4cc9-809b-db60f53a123f@7f806"
+      ],
+      "materials": [
+        "aada4bae-3be8-4cc9-809b-db60f53a123f@22e2a",
+        "aada4bae-3be8-4cc9-809b-db60f53a123f@ed9a5",
+        "aada4bae-3be8-4cc9-809b-db60f53a123f@9aeec"
+      ],
+      "scenes": [
+        "aada4bae-3be8-4cc9-809b-db60f53a123f@119ca"
+      ]
+    }
+  }
+}

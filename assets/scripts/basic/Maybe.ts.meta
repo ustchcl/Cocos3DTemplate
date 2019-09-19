@@ -1,0 +1,15 @@
+{
+  "ver": "1.0.844",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "9feeaa51-07e5-4304-aa42-4626013006cb",
+  "displayName": "",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/scripts/basic/Maybe.ts",
+    "importAsPlugin": false
+  }
+}

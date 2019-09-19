@@ -1,0 +1,15 @@
+{
+  "ver": "1.0.844",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "447a41ae-0260-4fc8-9461-ad66df3a0672",
+  "displayName": "",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/scripts/src/GameUIMain.ts",
+    "importAsPlugin": false
+  }
+}

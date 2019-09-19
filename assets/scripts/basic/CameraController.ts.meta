@@ -1,0 +1,15 @@
+{
+  "ver": "1.0.844",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "e4e82f1c-aebc-4181-b312-a085be1f1a97",
+  "displayName": "",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/scripts/basic/CameraController.ts",
+    "importAsPlugin": false
+  }
+}

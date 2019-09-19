@@ -1,0 +1,15 @@
+{
+  "ver": "1.0.844",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "d70c2aca-6831-4652-9c53-69e87c2e10dd",
+  "displayName": "",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/scripts/basic/BaseFunctions.ts",
+    "importAsPlugin": false
+  }
+}

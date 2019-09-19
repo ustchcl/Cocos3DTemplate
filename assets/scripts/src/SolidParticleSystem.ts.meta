@@ -1,0 +1,15 @@
+{
+  "ver": "1.0.844",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "5c4f2834-a7d9-4dab-82d7-8497b95dcb5b",
+  "displayName": "",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/scripts/src/SolidParticleSystem.ts",
+    "importAsPlugin": false
+  }
+}

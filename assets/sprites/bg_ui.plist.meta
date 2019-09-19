@@ -1,0 +1,64 @@
+{
+  "ver": "1.0.4",
+  "importer": "sprite-atlas",
+  "imported": true,
+  "uuid": "cef32c9a-d9aa-4fd6-8abe-79e5f8bf4f44",
+  "name": "",
+  "id": "",
+  "displayName": "",
+  "files": [
+    ".plist",
+    ".json"
+  ],
+  "subMetas": {
+    "ff38b": {
+      "ver": "1.0.7",
+      "importer": "sprite-frame",
+      "name": "bg_beijingjiemain",
+      "id": "ff38b",
+      "displayName": "",
+      "uuid": "cef32c9a-d9aa-4fd6-8abe-79e5f8bf4f44@ff38b",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 1,
+        "trimY": 1,
+        "width": 768,
+        "height": 1666,
+        "rawWidth": 768,
+        "rawHeight": 1666,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c59d40b1-50fe-4999-ba02-146586deb93e",
+        "atlasUuid": "cef32c9a-d9aa-4fd6-8abe-79e5f8bf4f44"
+      }
+    }
+  },
+  "userData": {
+    "atlasTextureName": "bg_ui.png",
+    "size": {
+      "width": 770,
+      "height": 1668
+    },
+    "uuid": "cef32c9a-d9aa-4fd6-8abe-79e5f8bf4f44",
+    "textureUuid": "c59d40b1-50fe-4999-ba02-146586deb93e"
+  }
+}

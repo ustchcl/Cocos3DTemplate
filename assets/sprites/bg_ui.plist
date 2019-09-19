@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>bg_beijingjiemain.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{768,1666}</string>
+                <key>spriteSourceSize</key>
+                <string>{768,1666}</string>
+                <key>textureRect</key>
+                <string>{{1,1},{768,1666}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>bg_ui.png</string>
+            <key>size</key>
+            <string>{770,1668}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:103b12dd9f10fe9d6cb7b3ff15b4933e:905d9b43e4b8e915822302b5d109b046:c792d5ca774c029ef81396547a4182f1$</string>
+            <key>textureFileName</key>
+            <string>bg_ui.png</string>
+        </dict>
+    </dict>
+</plist>

@@ -1,0 +1,15 @@
+{
+  "ver": "1.0.844",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "f2f7e81a-04cc-4d0a-abd0-6f25433aa0ee",
+  "displayName": "",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/scripts/src/Obstacle.ts",
+    "importAsPlugin": false
+  }
+}

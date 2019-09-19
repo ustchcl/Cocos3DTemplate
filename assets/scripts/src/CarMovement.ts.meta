@@ -1,0 +1,15 @@
+{
+  "ver": "1.0.844",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "fddd7434-6299-4e0c-bb92-1ffa84efd6f2",
+  "displayName": "",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/scripts/src/CarMovement.ts",
+    "importAsPlugin": false
+  }
+}

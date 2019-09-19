@@ -1,0 +1,8 @@
+{
+    "name": "Cocos3dTemplate",
+    "type": "3d",
+    "dependencies": {
+        "@types/ramda": "^0.26.21",
+        "ramda": "^0.26.1"
+    }
+}
