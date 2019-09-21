@@ -1,0 +1,17 @@
+{
+  "ver": "1.0.844",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "a31212f4-5217-4d73-b9f4-be150598ae9e",
+  "name": "",
+  "id": "",
+  "displayName": "",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/scripts/src/selectCar/SelectCar.ts",
+    "importAsPlugin": false
+  }
+}

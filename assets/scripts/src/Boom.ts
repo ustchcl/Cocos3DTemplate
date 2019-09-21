@@ -16,12 +16,14 @@ export default class Boom extends CC.Component {
     @property({type: CC.Node})
     innerNode: CC.Node = null;
 
+
+    readonly timeScale = 1.5;
     
 
     state = {
         on: false,
         spNum: 100,
-        rates: [0.5, 0.6, 0.7, 0.8, 0.9, 1.0],
+        rates: [0.3, 0.6, 1.0],
         gravity: -0.04,
         speed: 0.6,
         deadCount: 0,
@@ -93,15 +95,15 @@ export default class Boom extends CC.Component {
             }
             
         }
-        particle.velocity.y += this.state.gravity * 2;
+        particle.velocity.y += this.state.gravity * this.timeScale;
         let p = particle.node.position;
-        particle.node.setPosition(GameMath.plusV3(GameMath.plusV3(p, particle.velocity), particle.velocity));
+        particle.node.setPosition(GameMath.plusV3(p, GameMath.scaleV3(particle.velocity, this.timeScale)));
 
         let sign = particle.idx % 2 == 0 ? 1 : -1; 
         let r = particle.node.getRotation();
         let eulerR = new CC.Vec3();
         CC.Quat.toEuler(eulerR, r);
-        particle.node.setRotationFromEuler(eulerR.x + 8 * sign, eulerR.y + 0.06 * sign, eulerR.z + 0.4 * sign);
+        particle.node.setRotationFromEuler(eulerR.x + this.timeScale * 4 * sign, eulerR.y + 0.03 * this.timeScale * sign, eulerR.z + 0.2 * this.timeScale * sign);
     }
 
     update() {

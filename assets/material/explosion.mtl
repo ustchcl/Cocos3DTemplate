@@ -6,7 +6,7 @@
   "_effectAsset": {
     "__uuid__": "d1346436-ac96-4271-b863-1f4fdead95b0"
   },
-  "_techIdx": "0",
+  "_techIdx": 0,
   "_defines": [
     {}
   ],
@@ -24,7 +24,7 @@
   "_props": [
     {
       "mainTexture": {
-        "__uuid__": "438ca2bf-19d3-4254-b8d7-d6095927fb85@6c48a"
+        "__uuid__": "8888ca09-3abe-477b-9881-0af2a37fbc6c@6c48a"
       }
     }
   ]

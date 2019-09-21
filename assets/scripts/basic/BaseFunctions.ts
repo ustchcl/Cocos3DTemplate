@@ -1,9 +1,14 @@
-import { Vec2, Node, Quat, Vec3 } from "cc";
+import { Vec2, Node, Quat, Vec3, CCObject, SystemEvent } from "cc";
 import { Maybe } from "./Maybe";
 
 export module GameMath {
     export function plusV3(a: Vec3, b: Vec3): Vec3 {
         return new Vec3(a.x + b.x, a.y + b.y, a.z + b.z);
+    }
+
+
+    export function scaleV3(a: Vec3, scale: number): Vec3 {
+        return new Vec3(a.x * scale, a.y * scale, a.z * scale)
     }
 
     export function subtract(a: Vec2, b: Vec2): Vec2 {
@@ -88,4 +93,9 @@ export function randomOneWithRate(rates: Array<number>): Maybe<number> {
         }
     }
     return Maybe.Nothing();
+}
+
+type TouchType = "touch-start" | "touch-move" | "touch-cancel" | "touch-end"
+export function addListener(node: Node, type: TouchType, cb: (e: SystemEvent) => any) {
+    node.on(type, cb);
 }
