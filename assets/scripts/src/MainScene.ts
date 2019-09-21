@@ -148,6 +148,11 @@ export default class MainScene extends CC.Component {
     }
 
     update () {
+
+        if (this.state.gameState == "End") {
+            return;
+        }
+        
         // if (this.carNode.position.z <= 100) {
         //     GameMath.updatePosition(this.carNode, "z", _ => 199);
         // } else {
