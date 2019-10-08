@@ -1,0 +1,17 @@
+{
+  "ver": "1.0.844",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "9cddf268-040d-456e-bb2e-917fe39b9d64",
+  "name": "",
+  "id": "",
+  "displayName": "",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/scripts/src/ui/level_up/LevelUpPage.ts",
+    "importAsPlugin": false
+  }
+}

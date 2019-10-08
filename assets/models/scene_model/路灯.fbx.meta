@@ -1,0 +1,81 @@
+{
+  "ver": "1.1.2525",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "515b8b5f-292e-4ec7-a04f-7c1e455e2853",
+  "name": "",
+  "id": "",
+  "displayName": "",
+  "files": [
+    ".fbx"
+  ],
+  "subMetas": {
+    "008e3": {
+      "ver": "1.0.2",
+      "importer": "gltf-mesh",
+      "name": "立方体_46.mesh",
+      "id": "008e3",
+      "displayName": "",
+      "uuid": "515b8b5f-292e-4ec7-a04f-7c1e455e2853@008e3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "76ab0": {
+      "ver": "1.0.10",
+      "importer": "gltf-material",
+      "name": "材质.3.material",
+      "id": "76ab0",
+      "displayName": "",
+      "uuid": "515b8b5f-292e-4ec7-a04f-7c1e455e2853@76ab0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "08c4b": {
+      "ver": "1.0.8",
+      "importer": "gltf-scene",
+      "name": "路灯.prefab",
+      "id": "08c4b",
+      "displayName": "",
+      "uuid": "515b8b5f-292e-4ec7-a04f-7c1e455e2853@08c4b",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageLocations": {},
+    "normals": 2,
+    "tangents": 2,
+    "dumpMaterials": false,
+    "redirect": "515b8b5f-292e-4ec7-a04f-7c1e455e2853@08c4b",
+    "assetFinder": {
+      "meshes": [
+        "515b8b5f-292e-4ec7-a04f-7c1e455e2853@008e3"
+      ],
+      "materials": [
+        "515b8b5f-292e-4ec7-a04f-7c1e455e2853@76ab0"
+      ],
+      "scenes": [
+        "515b8b5f-292e-4ec7-a04f-7c1e455e2853@08c4b"
+      ]
+    }
+  }
+}

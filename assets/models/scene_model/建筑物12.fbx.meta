@@ -1,0 +1,132 @@
+{
+  "ver": "1.1.2525",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "15719955-2ebd-435f-a068-2f9a41946e7d",
+  "name": "",
+  "id": "",
+  "displayName": "",
+  "files": [
+    ".fbx"
+  ],
+  "subMetas": {
+    "77315": {
+      "ver": "1.0.10",
+      "importer": "gltf-material",
+      "name": "材质.5.material",
+      "id": "77315",
+      "displayName": "",
+      "uuid": "15719955-2ebd-435f-a068-2f9a41946e7d@77315",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      }
+    },
+    "926d2": {
+      "ver": "1.0.2",
+      "importer": "gltf-mesh",
+      "name": "桶8_1.mesh",
+      "id": "926d2",
+      "displayName": "",
+      "uuid": "15719955-2ebd-435f-a068-2f9a41946e7d@926d2",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "0d890": {
+      "ver": "1.0.10",
+      "importer": "gltf-material",
+      "name": "材质.13.material",
+      "id": "0d890",
+      "displayName": "",
+      "uuid": "15719955-2ebd-435f-a068-2f9a41946e7d@0d890",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "3ecad": {
+      "ver": "1.0.10",
+      "importer": "gltf-material",
+      "name": "材质.4.material",
+      "id": "3ecad",
+      "displayName": "",
+      "uuid": "15719955-2ebd-435f-a068-2f9a41946e7d@3ecad",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 2
+      }
+    },
+    "8f26a": {
+      "ver": "1.0.10",
+      "importer": "gltf-material",
+      "name": "材质.12.material",
+      "id": "8f26a",
+      "displayName": "",
+      "uuid": "15719955-2ebd-435f-a068-2f9a41946e7d@8f26a",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 3
+      }
+    },
+    "693bd": {
+      "ver": "1.0.8",
+      "importer": "gltf-scene",
+      "name": "建筑物12.prefab",
+      "id": "693bd",
+      "displayName": "",
+      "uuid": "15719955-2ebd-435f-a068-2f9a41946e7d@693bd",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageLocations": {},
+    "normals": 2,
+    "tangents": 2,
+    "dumpMaterials": false,
+    "redirect": "15719955-2ebd-435f-a068-2f9a41946e7d@693bd",
+    "assetFinder": {
+      "meshes": [
+        "15719955-2ebd-435f-a068-2f9a41946e7d@926d2"
+      ],
+      "materials": [
+        "15719955-2ebd-435f-a068-2f9a41946e7d@0d890",
+        "15719955-2ebd-435f-a068-2f9a41946e7d@77315",
+        "15719955-2ebd-435f-a068-2f9a41946e7d@3ecad",
+        "15719955-2ebd-435f-a068-2f9a41946e7d@8f26a"
+      ],
+      "scenes": [
+        "15719955-2ebd-435f-a068-2f9a41946e7d@693bd"
+      ]
+    }
+  }
+}

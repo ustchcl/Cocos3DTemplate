@@ -1,1 +1,74 @@
-{}
+{
+  "common": {
+    "taskName": "wechatgame_002",
+    "platform": "wechatgame",
+    "startScene": "df405621-b93e-4e35-9ce0-28ce284a2c7d",
+    "orientation": "portrait",
+    "appid": "wx688e01cf7442c939",
+    "remoteServerAddress": "https://res.yting.com.cn/car_res_0.5/",
+    "forceCombileEngine": false,
+    "packAutoAtlas": true
+  },
+  "wechatgame": {
+    "orientation": "portrait",
+    "appid": "wx688e01cf7442c939",
+    "remoteServerAddress": "https://res.yting.com.cn/car_res_0.5/"
+  },
+  "BuildTaskManager": {
+    "queue": [
+      {
+        "id": "wechatgame_002",
+        "state": "success",
+        "progress": 1,
+        "options": {
+          "appid": "wx688e01cf7442c939",
+          "buildPath": "./build",
+          "compressTexture": true,
+          "debug": false,
+          "designResolution": {
+            "width": 768,
+            "height": 1366,
+            "fitWidth": true,
+            "fitHeight": false
+          },
+          "forceCombileEngine": false,
+          "includeModules": [
+            "base",
+            "gfx-webgl",
+            "gfx-webgl2",
+            "ui",
+            "particle",
+            "physics-cannon",
+            "physics-framework",
+            "audio",
+            "tween",
+            "terrain"
+          ],
+          "inlineSpriteFrames": false,
+          "md5Cache": false,
+          "mergeStartScene": false,
+          "name": "Cocos3DTemplate",
+          "orientation": "portrait",
+          "packAutoAtlas": true,
+          "platform": "wechatgame",
+          "remoteServerAddress": "https://res.yting.com.cn/car_res_0.5/",
+          "scenes": [
+            {
+              "url": "db://assets/scene/GameScene3.scene",
+              "uuid": "b22cebd3-53c5-4add-b2a3-b7552d19f478"
+            },
+            {
+              "url": "db://assets/scene/LoadingScene.scene",
+              "uuid": "df405621-b93e-4e35-9ce0-28ce284a2c7d"
+            }
+          ],
+          "sourceMaps": false,
+          "startScene": "df405621-b93e-4e35-9ce0-28ce284a2c7d",
+          "subContext": "",
+          "taskName": "wechatgame_002"
+        },
+        "message": "build sucess in 7509 ms!"
+      }
+    ]
+  }
+}

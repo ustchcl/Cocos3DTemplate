@@ -1,0 +1,17 @@
+{
+  "ver": "1.0.844",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "11f954c7-4a48-4950-97e9-cc9f3ea53f49",
+  "name": "",
+  "id": "",
+  "displayName": "",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/scripts/src/ui/level_up/SkillItem.ts",
+    "importAsPlugin": false
+  }
+}

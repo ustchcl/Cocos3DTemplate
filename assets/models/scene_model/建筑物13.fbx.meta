@@ -1,0 +1,217 @@
+{
+  "ver": "1.1.2525",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "dc8343ff-ce78-478f-8033-2a3da57d2d71",
+  "name": "",
+  "id": "",
+  "displayName": "",
+  "files": [
+    ".fbx"
+  ],
+  "subMetas": {
+    "77315": {
+      "ver": "1.0.10",
+      "importer": "gltf-material",
+      "name": "材质.5.material",
+      "id": "77315",
+      "displayName": "",
+      "uuid": "dc8343ff-ce78-478f-8033-2a3da57d2d71@77315",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 2
+      }
+    },
+    "654e9": {
+      "ver": "1.0.2",
+      "importer": "gltf-mesh",
+      "name": "桶4_1.mesh",
+      "id": "654e9",
+      "displayName": "",
+      "uuid": "dc8343ff-ce78-478f-8033-2a3da57d2d71@654e9",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "22e2a": {
+      "ver": "1.0.10",
+      "importer": "gltf-material",
+      "name": "材质.material",
+      "id": "22e2a",
+      "displayName": "",
+      "uuid": "dc8343ff-ce78-478f-8033-2a3da57d2d71@22e2a",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "0d890": {
+      "ver": "1.0.10",
+      "importer": "gltf-material",
+      "name": "材质.13.material",
+      "id": "0d890",
+      "displayName": "",
+      "uuid": "dc8343ff-ce78-478f-8033-2a3da57d2d71@0d890",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      }
+    },
+    "3ecad": {
+      "ver": "1.0.10",
+      "importer": "gltf-material",
+      "name": "材质.4.material",
+      "id": "3ecad",
+      "displayName": "",
+      "uuid": "dc8343ff-ce78-478f-8033-2a3da57d2d71@3ecad",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 3
+      }
+    },
+    "2f6ad": {
+      "ver": "1.0.10",
+      "importer": "gltf-material",
+      "name": "材质.17.material",
+      "id": "2f6ad",
+      "displayName": "",
+      "uuid": "dc8343ff-ce78-478f-8033-2a3da57d2d71@2f6ad",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 4
+      }
+    },
+    "76ab0": {
+      "ver": "1.0.10",
+      "importer": "gltf-material",
+      "name": "材质.3.material",
+      "id": "76ab0",
+      "displayName": "",
+      "uuid": "dc8343ff-ce78-478f-8033-2a3da57d2d71@76ab0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 5
+      }
+    },
+    "edf2b": {
+      "ver": "1.0.10",
+      "importer": "gltf-material",
+      "name": "材质.16.material",
+      "id": "edf2b",
+      "displayName": "",
+      "uuid": "dc8343ff-ce78-478f-8033-2a3da57d2d71@edf2b",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 6
+      }
+    },
+    "ea6e2": {
+      "ver": "1.0.10",
+      "importer": "gltf-material",
+      "name": "DefaultMaterial.material",
+      "id": "ea6e2",
+      "displayName": "",
+      "uuid": "dc8343ff-ce78-478f-8033-2a3da57d2d71@ea6e2",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 7
+      }
+    },
+    "ed9a5": {
+      "ver": "1.0.10",
+      "importer": "gltf-material",
+      "name": "材质.2.material",
+      "id": "ed9a5",
+      "displayName": "",
+      "uuid": "dc8343ff-ce78-478f-8033-2a3da57d2d71@ed9a5",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 8
+      }
+    },
+    "d1fc3": {
+      "ver": "1.0.8",
+      "importer": "gltf-scene",
+      "name": "建筑物13.prefab",
+      "id": "d1fc3",
+      "displayName": "",
+      "uuid": "dc8343ff-ce78-478f-8033-2a3da57d2d71@d1fc3",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageLocations": {},
+    "normals": 2,
+    "tangents": 2,
+    "dumpMaterials": false,
+    "redirect": "dc8343ff-ce78-478f-8033-2a3da57d2d71@d1fc3",
+    "assetFinder": {
+      "meshes": [
+        "dc8343ff-ce78-478f-8033-2a3da57d2d71@654e9"
+      ],
+      "materials": [
+        "dc8343ff-ce78-478f-8033-2a3da57d2d71@22e2a",
+        "dc8343ff-ce78-478f-8033-2a3da57d2d71@0d890",
+        "dc8343ff-ce78-478f-8033-2a3da57d2d71@77315",
+        "dc8343ff-ce78-478f-8033-2a3da57d2d71@3ecad",
+        "dc8343ff-ce78-478f-8033-2a3da57d2d71@2f6ad",
+        "dc8343ff-ce78-478f-8033-2a3da57d2d71@76ab0",
+        "dc8343ff-ce78-478f-8033-2a3da57d2d71@edf2b",
+        "dc8343ff-ce78-478f-8033-2a3da57d2d71@ea6e2",
+        "dc8343ff-ce78-478f-8033-2a3da57d2d71@ed9a5"
+      ],
+      "scenes": [
+        "dc8343ff-ce78-478f-8033-2a3da57d2d71@d1fc3"
+      ]
+    }
+  }
+}

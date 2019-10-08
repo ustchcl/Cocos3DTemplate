@@ -1,0 +1,183 @@
+{
+  "ver": "1.1.2525",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "5655c7b0-93da-4e20-aef6-3a0e0614b617",
+  "name": "",
+  "id": "",
+  "displayName": "",
+  "files": [
+    ".fbx"
+  ],
+  "subMetas": {
+    "77315": {
+      "ver": "1.0.10",
+      "importer": "gltf-material",
+      "name": "材质.5.material",
+      "id": "77315",
+      "displayName": "",
+      "uuid": "5655c7b0-93da-4e20-aef6-3a0e0614b617@77315",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 6
+      }
+    },
+    "ab47a": {
+      "ver": "1.0.2",
+      "importer": "gltf-mesh",
+      "name": "圆环.mesh",
+      "id": "ab47a",
+      "displayName": "",
+      "uuid": "5655c7b0-93da-4e20-aef6-3a0e0614b617@ab47a",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "03e74": {
+      "ver": "1.0.10",
+      "importer": "gltf-material",
+      "name": "替换颜色2.material",
+      "id": "03e74",
+      "displayName": "",
+      "uuid": "5655c7b0-93da-4e20-aef6-3a0e0614b617@03e74",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "76ab0": {
+      "ver": "1.0.10",
+      "importer": "gltf-material",
+      "name": "材质.3.material",
+      "id": "76ab0",
+      "displayName": "",
+      "uuid": "5655c7b0-93da-4e20-aef6-3a0e0614b617@76ab0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      }
+    },
+    "ed9a5": {
+      "ver": "1.0.10",
+      "importer": "gltf-material",
+      "name": "材质.2.material",
+      "id": "ed9a5",
+      "displayName": "",
+      "uuid": "5655c7b0-93da-4e20-aef6-3a0e0614b617@ed9a5",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 2
+      }
+    },
+    "9aeec": {
+      "ver": "1.0.10",
+      "importer": "gltf-material",
+      "name": "材质.1.material",
+      "id": "9aeec",
+      "displayName": "",
+      "uuid": "5655c7b0-93da-4e20-aef6-3a0e0614b617@9aeec",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 3
+      }
+    },
+    "3ecad": {
+      "ver": "1.0.10",
+      "importer": "gltf-material",
+      "name": "材质.4.material",
+      "id": "3ecad",
+      "displayName": "",
+      "uuid": "5655c7b0-93da-4e20-aef6-3a0e0614b617@3ecad",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 4
+      }
+    },
+    "22e2a": {
+      "ver": "1.0.10",
+      "importer": "gltf-material",
+      "name": "材质.material",
+      "id": "22e2a",
+      "displayName": "",
+      "uuid": "5655c7b0-93da-4e20-aef6-3a0e0614b617@22e2a",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 5
+      }
+    },
+    "86b46": {
+      "ver": "1.0.8",
+      "importer": "gltf-scene",
+      "name": "wuling.prefab",
+      "id": "86b46",
+      "displayName": "",
+      "uuid": "5655c7b0-93da-4e20-aef6-3a0e0614b617@86b46",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageLocations": {},
+    "normals": 2,
+    "tangents": 2,
+    "dumpMaterials": false,
+    "redirect": "5655c7b0-93da-4e20-aef6-3a0e0614b617@86b46",
+    "assetFinder": {
+      "meshes": [
+        "5655c7b0-93da-4e20-aef6-3a0e0614b617@ab47a"
+      ],
+      "materials": [
+        "5655c7b0-93da-4e20-aef6-3a0e0614b617@03e74",
+        "5655c7b0-93da-4e20-aef6-3a0e0614b617@76ab0",
+        "5655c7b0-93da-4e20-aef6-3a0e0614b617@ed9a5",
+        "5655c7b0-93da-4e20-aef6-3a0e0614b617@9aeec",
+        "5655c7b0-93da-4e20-aef6-3a0e0614b617@3ecad",
+        "5655c7b0-93da-4e20-aef6-3a0e0614b617@22e2a",
+        "5655c7b0-93da-4e20-aef6-3a0e0614b617@77315"
+      ],
+      "scenes": [
+        "5655c7b0-93da-4e20-aef6-3a0e0614b617@86b46"
+      ]
+    }
+  }
+}

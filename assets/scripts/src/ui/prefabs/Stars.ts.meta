@@ -1,0 +1,17 @@
+{
+  "ver": "1.0.844",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "5d8738f6-51fb-42c4-a5b0-7472ff21b1e2",
+  "name": "",
+  "id": "",
+  "displayName": "",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/scripts/src/ui/prefabs/Stars.ts",
+    "importAsPlugin": false
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "ver": "1.1.2525",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "c8b1f427-4c20-4d23-92b6-81939d4cb4e8",
+  "name": "",
+  "id": "",
+  "displayName": "",
+  "files": [
+    ".fbx"
+  ],
+  "subMetas": {
+    "2cbc2": {
+      "ver": "1.0.2",
+      "importer": "gltf-mesh",
+      "name": "立方体_9_1.mesh",
+      "id": "2cbc2",
+      "displayName": "",
+      "uuid": "c8b1f427-4c20-4d23-92b6-81939d4cb4e8@2cbc2",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "3ecad": {
+      "ver": "1.0.10",
+      "importer": "gltf-material",
+      "name": "材质.4.material",
+      "id": "3ecad",
+      "displayName": "",
+      "uuid": "c8b1f427-4c20-4d23-92b6-81939d4cb4e8@3ecad",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "91cde": {
+      "ver": "1.0.10",
+      "importer": "gltf-material",
+      "name": "材质.6.material",
+      "id": "91cde",
+      "displayName": "",
+      "uuid": "c8b1f427-4c20-4d23-92b6-81939d4cb4e8@91cde",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      }
+    },
+    "76ab0": {
+      "ver": "1.0.10",
+      "importer": "gltf-material",
+      "name": "材质.3.material",
+      "id": "76ab0",
+      "displayName": "",
+      "uuid": "c8b1f427-4c20-4d23-92b6-81939d4cb4e8@76ab0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 2
+      }
+    },
+    "fee83": {
+      "ver": "1.0.10",
+      "importer": "gltf-material",
+      "name": "材质.9.material",
+      "id": "fee83",
+      "displayName": "",
+      "uuid": "c8b1f427-4c20-4d23-92b6-81939d4cb4e8@fee83",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 3
+      }
+    },
+    "ed9a5": {
+      "ver": "1.0.10",
+      "importer": "gltf-material",
+      "name": "材质.2.material",
+      "id": "ed9a5",
+      "displayName": "",
+      "uuid": "c8b1f427-4c20-4d23-92b6-81939d4cb4e8@ed9a5",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 4
+      }
+    },
+    "9d6ba": {
+      "ver": "1.0.10",
+      "importer": "gltf-material",
+      "name": "材质.10.material",
+      "id": "9d6ba",
+      "displayName": "",
+      "uuid": "c8b1f427-4c20-4d23-92b6-81939d4cb4e8@9d6ba",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 5
+      }
+    },
+    "039e7": {
+      "ver": "1.0.10",
+      "importer": "gltf-material",
+      "name": "材质.8.material",
+      "id": "039e7",
+      "displayName": "",
+      "uuid": "c8b1f427-4c20-4d23-92b6-81939d4cb4e8@039e7",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 6
+      }
+    },
+    "789df": {
+      "ver": "1.0.8",
+      "importer": "gltf-scene",
+      "name": "建筑物3.prefab",
+      "id": "789df",
+      "displayName": "",
+      "uuid": "c8b1f427-4c20-4d23-92b6-81939d4cb4e8@789df",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageLocations": {},
+    "normals": 2,
+    "tangents": 2,
+    "dumpMaterials": false,
+    "redirect": "c8b1f427-4c20-4d23-92b6-81939d4cb4e8@789df",
+    "assetFinder": {
+      "meshes": [
+        "c8b1f427-4c20-4d23-92b6-81939d4cb4e8@2cbc2"
+      ],
+      "materials": [
+        "c8b1f427-4c20-4d23-92b6-81939d4cb4e8@3ecad",
+        "c8b1f427-4c20-4d23-92b6-81939d4cb4e8@91cde",
+        "c8b1f427-4c20-4d23-92b6-81939d4cb4e8@76ab0",
+        "c8b1f427-4c20-4d23-92b6-81939d4cb4e8@fee83",
+        "c8b1f427-4c20-4d23-92b6-81939d4cb4e8@ed9a5",
+        "c8b1f427-4c20-4d23-92b6-81939d4cb4e8@9d6ba",
+        "c8b1f427-4c20-4d23-92b6-81939d4cb4e8@039e7"
+      ],
+      "scenes": [
+        "c8b1f427-4c20-4d23-92b6-81939d4cb4e8@789df"
+      ]
+    }
+  }
+}

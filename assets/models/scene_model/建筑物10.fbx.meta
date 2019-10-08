@@ -1,0 +1,166 @@
+{
+  "ver": "1.1.2525",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "93a84fad-0a2d-46da-98c4-d0db8f8dd24f",
+  "name": "",
+  "id": "",
+  "displayName": "",
+  "files": [
+    ".fbx"
+  ],
+  "subMetas": {
+    "77315": {
+      "ver": "1.0.10",
+      "importer": "gltf-material",
+      "name": "材质.5.material",
+      "id": "77315",
+      "displayName": "",
+      "uuid": "93a84fad-0a2d-46da-98c4-d0db8f8dd24f@77315",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      }
+    },
+    "6ad90": {
+      "ver": "1.0.2",
+      "importer": "gltf-mesh",
+      "name": "桶7_1.mesh",
+      "id": "6ad90",
+      "displayName": "",
+      "uuid": "93a84fad-0a2d-46da-98c4-d0db8f8dd24f@6ad90",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "3ecad": {
+      "ver": "1.0.10",
+      "importer": "gltf-material",
+      "name": "材质.4.material",
+      "id": "3ecad",
+      "displayName": "",
+      "uuid": "93a84fad-0a2d-46da-98c4-d0db8f8dd24f@3ecad",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "76ab0": {
+      "ver": "1.0.10",
+      "importer": "gltf-material",
+      "name": "材质.3.material",
+      "id": "76ab0",
+      "displayName": "",
+      "uuid": "93a84fad-0a2d-46da-98c4-d0db8f8dd24f@76ab0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 2
+      }
+    },
+    "fee83": {
+      "ver": "1.0.10",
+      "importer": "gltf-material",
+      "name": "材质.9.material",
+      "id": "fee83",
+      "displayName": "",
+      "uuid": "93a84fad-0a2d-46da-98c4-d0db8f8dd24f@fee83",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 3
+      }
+    },
+    "039e7": {
+      "ver": "1.0.10",
+      "importer": "gltf-material",
+      "name": "材质.8.material",
+      "id": "039e7",
+      "displayName": "",
+      "uuid": "93a84fad-0a2d-46da-98c4-d0db8f8dd24f@039e7",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 4
+      }
+    },
+    "22e2a": {
+      "ver": "1.0.10",
+      "importer": "gltf-material",
+      "name": "材质.material",
+      "id": "22e2a",
+      "displayName": "",
+      "uuid": "93a84fad-0a2d-46da-98c4-d0db8f8dd24f@22e2a",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 5
+      }
+    },
+    "60a0a": {
+      "ver": "1.0.8",
+      "importer": "gltf-scene",
+      "name": "建筑物10.prefab",
+      "id": "60a0a",
+      "displayName": "",
+      "uuid": "93a84fad-0a2d-46da-98c4-d0db8f8dd24f@60a0a",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageLocations": {},
+    "normals": 2,
+    "tangents": 2,
+    "dumpMaterials": false,
+    "redirect": "93a84fad-0a2d-46da-98c4-d0db8f8dd24f@60a0a",
+    "assetFinder": {
+      "meshes": [
+        "93a84fad-0a2d-46da-98c4-d0db8f8dd24f@6ad90"
+      ],
+      "materials": [
+        "93a84fad-0a2d-46da-98c4-d0db8f8dd24f@3ecad",
+        "93a84fad-0a2d-46da-98c4-d0db8f8dd24f@77315",
+        "93a84fad-0a2d-46da-98c4-d0db8f8dd24f@76ab0",
+        "93a84fad-0a2d-46da-98c4-d0db8f8dd24f@fee83",
+        "93a84fad-0a2d-46da-98c4-d0db8f8dd24f@039e7",
+        "93a84fad-0a2d-46da-98c4-d0db8f8dd24f@22e2a"
+      ],
+      "scenes": [
+        "93a84fad-0a2d-46da-98c4-d0db8f8dd24f@60a0a"
+      ]
+    }
+  }
+}

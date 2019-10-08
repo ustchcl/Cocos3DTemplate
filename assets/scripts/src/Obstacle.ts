@@ -29,4 +29,5 @@ export default class Obstacle extends c3d.Component {
     }
 
 
+
 }

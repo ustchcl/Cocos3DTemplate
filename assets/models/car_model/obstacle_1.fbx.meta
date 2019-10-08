@@ -1,0 +1,98 @@
+{
+  "ver": "1.1.2525",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "c7d5e9e4-9e4a-4ee3-854c-017e64715cd0",
+  "name": "",
+  "id": "",
+  "displayName": "",
+  "files": [
+    ".fbx"
+  ],
+  "subMetas": {
+    "14e62": {
+      "ver": "1.0.2",
+      "importer": "gltf-mesh",
+      "name": "圆柱_1.mesh",
+      "id": "14e62",
+      "displayName": "",
+      "uuid": "c7d5e9e4-9e4a-4ee3-854c-017e64715cd0@14e62",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "22e2a": {
+      "ver": "1.0.10",
+      "importer": "gltf-material",
+      "name": "材质.material",
+      "id": "22e2a",
+      "displayName": "",
+      "uuid": "c7d5e9e4-9e4a-4ee3-854c-017e64715cd0@22e2a",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "9aeec": {
+      "ver": "1.0.10",
+      "importer": "gltf-material",
+      "name": "材质.1.material",
+      "id": "9aeec",
+      "displayName": "",
+      "uuid": "c7d5e9e4-9e4a-4ee3-854c-017e64715cd0@9aeec",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      }
+    },
+    "a507a": {
+      "ver": "1.0.8",
+      "importer": "gltf-scene",
+      "name": "obstacle_1.prefab",
+      "id": "a507a",
+      "displayName": "",
+      "uuid": "c7d5e9e4-9e4a-4ee3-854c-017e64715cd0@a507a",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageLocations": {},
+    "normals": 2,
+    "tangents": 2,
+    "dumpMaterials": false,
+    "redirect": "c7d5e9e4-9e4a-4ee3-854c-017e64715cd0@a507a",
+    "assetFinder": {
+      "meshes": [
+        "c7d5e9e4-9e4a-4ee3-854c-017e64715cd0@14e62"
+      ],
+      "materials": [
+        "c7d5e9e4-9e4a-4ee3-854c-017e64715cd0@22e2a",
+        "c7d5e9e4-9e4a-4ee3-854c-017e64715cd0@9aeec"
+      ],
+      "scenes": [
+        "c7d5e9e4-9e4a-4ee3-854c-017e64715cd0@a507a"
+      ]
+    }
+  }
+}

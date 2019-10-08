@@ -7,6 +7,7 @@ type SpeedMode = "Normal" | "Sprint";
 type GameState = "BeforeStart" | "Ready" | "ReadyEnd" | "CounterDown" | "End";
 type CarState = "Normal" | "Collision" | "CameraBack" | "BulletTime";
 
+
 type State = {
 	gameState: GameState,
 	car: {
@@ -82,6 +83,8 @@ export default class GameUIMain extends c3d.Component {
     // serializableDummy = 0;
 
     start () {
+        console.log(R.range(0, 10));
+        console.log(Rx);
         // Your initialization goes here.
     }
 

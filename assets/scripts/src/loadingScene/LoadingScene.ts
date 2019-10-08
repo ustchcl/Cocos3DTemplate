@@ -4,6 +4,7 @@
  */
 
 import * as CC from "cc"
+import { GameData } from "../GameData";
 
 const { ccclass, property } = CC._decorator;
 
@@ -14,7 +15,7 @@ export class LoadingScene extends CC.Component {
     @property(CC.ProgressBarComponent)
     loadingBar: CC.ProgressBarComponent = null;
 
-    @property(String)
+    @property(CC.CCString)
     sceneName: string = "main";
 
     onLoad() {
@@ -44,5 +45,7 @@ export class LoadingScene extends CC.Component {
                 });
             }
         );
+
+        GameData.init();
     }
 }

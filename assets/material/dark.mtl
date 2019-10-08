@@ -6,7 +6,7 @@
   "_effectAsset": {
     "__uuid__": "1baf0fc9-befa-459c-8bdd-af1a450a0319"
   },
-  "_techIdx": 0,
+  "_techIdx": "0",
   "_defines": [
     {}
   ],
@@ -23,11 +23,11 @@
   ],
   "_props": [
     {
-      "albedo": {
+      "emissive": {
         "__type__": "cc.Color",
-        "r": 105,
-        "g": 64,
-        "b": 64,
+        "r": 136,
+        "g": 129,
+        "b": 129,
         "a": 255
       }
     }

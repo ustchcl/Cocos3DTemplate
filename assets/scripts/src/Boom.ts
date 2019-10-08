@@ -1,21 +1,17 @@
 import * as CC from "cc";
 const {ccclass, property} = CC._decorator;
-import { range, randomOneWithRate, GameMath } from "../basic/BaseFunctions";
+import { range, randomOneWithRate, GameMath, always } from "../basic/BaseFunctions";
 import Particle from "./Particle";
+import ObstacleModel from "./model/ObstacleModel";
 
 @ccclass("Boom")
 export default class Boom extends CC.Component {
-    @property({type: [CC.Material]})
     materials: CC.Material[] = [];
 
     @property({type: CC.Prefab})
     cubePrefab: CC.Prefab = null;
 
     particles: Particle[];
-
-    @property({type: CC.Node})
-    innerNode: CC.Node = null;
-
 
     readonly timeScale = 1.5;
     
@@ -39,8 +35,8 @@ export default class Boom extends CC.Component {
             let particle = node.getComponent(Particle) as Particle;
             particle.idx = i;
             let scale = Math.random();
-            cube.setScale(new CC.Vec3(scale, scale, scale));
-            let model = cube.getComponent(CC.ModelComponent) as CC.ModelComponent;
+            node.setScale(new CC.Vec3(scale, scale, scale));
+            let model = node.getComponent(CC.ModelComponent) as CC.ModelComponent;
             let idx = randomOneWithRate(this.state.rates).getOrElse(0);
             model.material = this.materials[idx];
             node.active = false;
@@ -53,7 +49,11 @@ export default class Boom extends CC.Component {
     initParticles() {
         this.state.deadCount = 0;
         this.state.map = {};
-        this.particles.forEach(p => this.recycleParticle(p));
+        this.particles.forEach(p => {
+            let idx = randomOneWithRate(this.state.rates).getOrElse(0);
+            p.getComponent(CC.ModelComponent).material = this.materials[idx];
+            this.recycleParticle(p)
+        });
     }
 
     recycleParticle(particle: Particle) {
@@ -69,11 +69,6 @@ export default class Boom extends CC.Component {
 
 
         particle.node.setRotationFromEuler(Math.random() * 180, Math.random() * 180, Math.random() * 180 - 90);
-
-        // let sizeX = Math.random() * 3 + 0.1;
-        // let sizeY = Math.random() * 3 + 0.1;
-        // let sizeZ = Math.random() * 3 + 0.1;
-        // particle.node.scale.set(sizeX * 0.002, sizeY * 0.002, sizeZ * 0.002);
 
         particle.node.active = true;
         return particle;
@@ -112,17 +107,18 @@ export default class Boom extends CC.Component {
         }
     }
 
-    boom () {
+    boom (obstacle: ObstacleModel) {
+        this.materials = obstacle.materials;
+        this.state.rates = obstacle.rates;
+        GameMath.updatePositionXYZ(this.node, always(obstacle.node.position.x), always(0), always(obstacle.node.position.z));
         this.initParticles();
         this.state.on = true;
         this.node.active = true;
-        this.innerNode.active = false;
     }
 
     reset() {
         this.state.on = false;
         this.particles.forEach(p => p.node.active = false);
-        this.innerNode.active = true;
     }
 
 }

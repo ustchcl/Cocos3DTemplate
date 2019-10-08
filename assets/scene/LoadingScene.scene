@@ -47,7 +47,7 @@
       "y": 1,
       "z": 1
     },
-    "_layer": 1,
+    "_layer": 1073741824,
     "_euler": {
       "__type__": "cc.Vec3",
       "x": 0,
@@ -58,7 +58,7 @@
     "_globals": {
       "__id__": 24
     },
-    "_id": "47d4ed25-e7c6-4426-bf59-5d03d3cb0d67"
+    "_id": "df405621-b93e-4e35-9ce0-28ce284a2c7d"
   },
   {
     "__type__": "cc.Node",
@@ -94,7 +94,7 @@
       "y": 1,
       "z": 1
     },
-    "_layer": 1,
+    "_layer": 1073741824,
     "_euler": {
       "__type__": "cc.Vec3",
       "x": 0,
@@ -157,7 +157,7 @@
       "y": 1,
       "z": 1
     },
-    "_layer": 1,
+    "_layer": 1073741824,
     "_euler": {
       "__type__": "cc.Vec3",
       "x": 0,
@@ -198,7 +198,7 @@
       "height": 1
     },
     "_screenScale": 1,
-    "_visibility": 1610612736,
+    "_visibility": 1822425087,
     "_targetTexture": null,
     "_id": "7dWQTpwS5LrIHnc1zAPUtf"
   },
@@ -235,8 +235,8 @@
     "_prefab": null,
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": 320,
-      "y": 568,
+      "x": 384,
+      "y": 683,
       "z": 1
     },
     "_lrot": {
@@ -737,8 +737,8 @@
     "_enabled": true,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 640,
-      "height": 1136
+      "width": 768,
+      "height": 1366
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -782,7 +782,7 @@
     "loadingBar": {
       "__id__": 17
     },
-    "sceneName": "MainScene",
+    "sceneName": "GameScene",
     "_id": "c4OzTgk1JEL41gMaFL1jW5"
   },
   {
